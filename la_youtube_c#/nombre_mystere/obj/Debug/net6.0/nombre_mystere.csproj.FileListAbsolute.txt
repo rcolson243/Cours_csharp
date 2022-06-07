@@ -1,0 +1,15 @@
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/bin/Debug/net6.0/nombre_mystere
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/bin/Debug/net6.0/nombre_mystere.deps.json
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/bin/Debug/net6.0/nombre_mystere.runtimeconfig.json
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/bin/Debug/net6.0/nombre_mystere.dll
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/bin/Debug/net6.0/nombre_mystere.pdb
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.csproj.AssemblyReference.cache
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.AssemblyInfoInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.AssemblyInfo.cs
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.csproj.CoreCompileInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.dll
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/refint/nombre_mystere.dll
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.pdb
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/nombre_mystere.genruntimeconfig.cache
+/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/nombre_mystere/obj/Debug/net6.0/ref/nombre_mystere.dll

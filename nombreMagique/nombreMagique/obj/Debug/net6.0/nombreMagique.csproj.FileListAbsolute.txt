@@ -1,0 +1,15 @@
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.csproj.AssemblyReference.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.AssemblyInfoInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.AssemblyInfo.cs
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.csproj.CoreCompileInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/bin/Debug/net6.0/nombreMagique
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/bin/Debug/net6.0/nombreMagique.deps.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/bin/Debug/net6.0/nombreMagique.runtimeconfig.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/bin/Debug/net6.0/nombreMagique.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/bin/Debug/net6.0/nombreMagique.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/refint/nombreMagique.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/nombreMagique.genruntimeconfig.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/nombreMagique/nombreMagique/obj/Debug/net6.0/ref/nombreMagique.dll

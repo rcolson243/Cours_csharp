@@ -6,7 +6,8 @@ namespace nbMagique
     {
         static void NombreMagique()
         {
-            const int nbMagique = 8;
+            Random rand = new Random();
+            int nbMagique = rand.Next(1, 11); ;
             int nombreVie = 5;
             int reponseUserInt = 0;
             
@@ -32,7 +33,7 @@ namespace nbMagique
                     else
                     {
                         Console.WriteLine
-                        ($"Bravo vous avez trouver \nLe nombre magique était bien le {reponseUserInt}"); ;
+                        ($"Bravo vous avez trouver \nLe nombre magique était bien {reponseUserInt}"); ;
                     }
                 }
                 catch

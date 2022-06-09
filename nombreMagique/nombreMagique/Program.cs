@@ -12,7 +12,7 @@ namespace nbMagique
             
             while (reponseUserInt != nbMagique)
             {
-                Console.WriteLine("Deviner un nombre entre (1 et 10)");
+                Console.Write ("Deviner un nombre entre (1 et 10)");
                 string reponseUserStr = Console.ReadLine();
 
                 try
@@ -51,6 +51,10 @@ namespace nbMagique
         }
         static void Main(string[] args)
         {
+            Random rand = new Random();
+            int nb_magique = rand.Next(1, 10);
+            Console.WriteLine(nb_magique);
+
             NombreMagique();
         }
     }

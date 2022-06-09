@@ -64,7 +64,7 @@ namespace premier_programme
             int age1 = DemanderAge(nom1);
             int age2 = DemanderAge(nom2);
 
-            // AFFICHE LES RESULTATS
+            // AFFICHE LES RESULTATS 
             Console.WriteLine();
             Console.WriteLine("Bonjour, vous vous appelez " + nom1 + ", vous avez " + age1 + " ans");
             Console.WriteLine("bientôt vous aurez " + (age1+1) + " ans");

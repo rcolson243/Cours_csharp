@@ -1,6 +1,6 @@
 ﻿using System; // Nous permet de travailler des methode et module de c#
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace Variable // Note: actual namespace depends on the project name.
 {
     internal class Program
     {

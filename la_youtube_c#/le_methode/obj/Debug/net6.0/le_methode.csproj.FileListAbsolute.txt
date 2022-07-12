@@ -1,0 +1,15 @@
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/bin/Debug/net6.0/le_methode
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/bin/Debug/net6.0/le_methode.deps.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/bin/Debug/net6.0/le_methode.runtimeconfig.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/bin/Debug/net6.0/le_methode.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/bin/Debug/net6.0/le_methode.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.csproj.AssemblyReference.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.AssemblyInfoInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.AssemblyInfo.cs
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.csproj.CoreCompileInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/refint/le_methode.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/le_methode.genruntimeconfig.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/le_methode/obj/Debug/net6.0/ref/le_methode.dll

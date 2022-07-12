@@ -4,6 +4,7 @@ namespace nbMagique
 {
     class Program
     {
+        
         static void NombreMagique()
         {
             Random rand = new Random();
@@ -52,11 +53,17 @@ namespace nbMagique
         }
         static void Main(string[] args)
         {
-            Random rand = new Random();
-            int nb_magique = rand.Next(1, 10);
-            Console.WriteLine(nb_magique);
+            // Random rand = new Random();
+            // int nb_magique = rand.Next(1, 10);
+            // Console.WriteLine(nb_magique);
 
-            NombreMagique();
+            // NombreMagique();
+
+            int return_age(int age){
+                return age + 1;
+            }
+            System.Console.WriteLine( return_age(25));
+
         }
     }
 }

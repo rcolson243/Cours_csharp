@@ -2,14 +2,19 @@
 
 namespace Variable // Note: actual namespace depends on the project name.
 {
-    internal class Program
-    {
-        
+    class Program
+    {   
         static void Main(string[] args)
         {
-            int[] tab = new int[8] {1, 2, 3, 4, 5, 6, 7, 8};
-            
+            var random_num = new Random();
+            random_num.Next(1, 100);
 
-        }
-    }   
+            var tab_num = new int[5];
+            tab_num[0] = 1;
+
+            for (int i = 0; i < tab_num.Length; i++) {
+                System.Console.WriteLine(tab_num[i]);
+            }
+        }   
+    }
 }

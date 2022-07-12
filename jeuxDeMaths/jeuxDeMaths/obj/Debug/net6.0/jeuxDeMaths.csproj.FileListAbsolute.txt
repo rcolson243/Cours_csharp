@@ -1,0 +1,15 @@
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/bin/Debug/net6.0/jeuxDeMaths
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/bin/Debug/net6.0/jeuxDeMaths.deps.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/bin/Debug/net6.0/jeuxDeMaths.runtimeconfig.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/bin/Debug/net6.0/jeuxDeMaths.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/bin/Debug/net6.0/jeuxDeMaths.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.csproj.AssemblyReference.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.AssemblyInfoInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.AssemblyInfo.cs
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.csproj.CoreCompileInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/refint/jeuxDeMaths.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/jeuxDeMaths.genruntimeconfig.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/jeuxDeMaths/jeuxDeMaths/obj/Debug/net6.0/ref/jeuxDeMaths.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/first_app/first_app.csproj": {}
+    "/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/first_app/first_app.csproj": {}
   },
   "projects": {
-    "/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/first_app/first_app.csproj": {
+    "/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/first_app/first_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/first_app/first_app.csproj",
+        "projectUniqueName": "/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/first_app/first_app.csproj",
         "projectName": "first_app",
-        "projectPath": "/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/first_app/first_app.csproj",
+        "projectPath": "/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/first_app/first_app.csproj",
         "packagesPath": "/Users/rapahelnatacha/.nuget/packages/",
-        "outputPath": "/Users/rapahelnatacha/Downloads/dev_code/cours_c#/la_youtube_c#/first_app/obj/",
+        "outputPath": "/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/la_youtube_c#/first_app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rapahelnatacha/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }

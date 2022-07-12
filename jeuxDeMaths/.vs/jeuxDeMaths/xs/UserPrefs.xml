@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{7AA57A11-FF33-4B9C-8704-78DD7BF21EEF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.jeuxDeMaths PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="jeuxDeMaths/Program.cs">
+    <Files>
+      <File FileName="jeuxDeMaths/Program.cs" Line="12" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jeuxDeMaths" expanded="True">
+            <Node name="jeuxDeMaths" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.jeuxDeMaths FirstBuild="True" />
 </Properties>

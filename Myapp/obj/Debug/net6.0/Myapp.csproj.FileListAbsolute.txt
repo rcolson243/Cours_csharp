@@ -1,0 +1,15 @@
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/bin/Debug/net6.0/Myapp
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/bin/Debug/net6.0/Myapp.deps.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/bin/Debug/net6.0/Myapp.runtimeconfig.json
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/bin/Debug/net6.0/Myapp.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/bin/Debug/net6.0/Myapp.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.csproj.AssemblyReference.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.AssemblyInfoInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.AssemblyInfo.cs
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.csproj.CoreCompileInputs.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/refint/Myapp.dll
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.pdb
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/Myapp.genruntimeconfig.cache
+/Users/rapahelnatacha/Downloads/dev_code/Cours_csharp/Myapp/obj/Debug/net6.0/ref/Myapp.dll

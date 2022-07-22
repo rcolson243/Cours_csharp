@@ -9,7 +9,6 @@ namespace premier_programme
             Console.WriteLine("Bonjour je m'appelle Toto.");
             Console.WriteLine("Toto, c'est bien mon nom");
 
-
         }
     }
 }

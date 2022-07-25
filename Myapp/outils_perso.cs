@@ -60,4 +60,24 @@ namespace outils_perso {
         }
 
 
+    public class Armur {
+        public int Defense { get; set;}
+        public int Duration { get; set;}
+
+        public Armur (int defense = 250, int Duration = 100){
+            this.Defense = defense;
+            this.Duration = Duration;
+        }
+
+        #region le surcharge d'opérateur
+        public static Armur operator + (Armur a, Armur b) 
+        { 
+            return new Armur(a.Defense + b.Duration, a.Duration + b.Duration);
+        }
+
+        public static bool operator true (Armur a) => a.Defense >= 100;
+        public static bool operator false (Armur a) => a.Defense < 100;
+        
+        #endregion
+    }
 }

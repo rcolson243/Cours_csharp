@@ -81,3 +81,9 @@ namespace outils_perso {
         #endregion
     }
 }
+
+switch ()
+{
+    
+    default:
+}

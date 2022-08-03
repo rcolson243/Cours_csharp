@@ -66,7 +66,7 @@ namespace outils_perso {
 
         public Armur (int defense = 250, int Duration = 100){
             this.Defense = defense;
-            this.Duration = Duration;
+            this.Duration = Duration; 
         }
 
         #region le surcharge d'opérateur
@@ -80,10 +80,4 @@ namespace outils_perso {
         
         #endregion
     }
-}
-
-switch ()
-{
-    
-    default:
 }
